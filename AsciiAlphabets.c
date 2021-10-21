@@ -34,3 +34,19 @@ int main()
   
     return 0;
 }
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+  
+//Output:- 
+
+// Uppercase Alphabets
+// A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+// Lowercase Alphabets
+// a b c d e f g h i j k l m n o p q r s t u v w x y z 
+
+  
+// Note:- We can also perform this task to using directly alphabets on the place of values(97 to 122 & 65 to 90).
+
+
